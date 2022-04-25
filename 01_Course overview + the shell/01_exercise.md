@@ -1,3 +1,7 @@
+[TOC]
+## Course Page  
+https://missing.csail.mit.edu/2020/course-shell/
+
 ## 10  
 ```shell script
 ./semester | grep last > ~/last-modified.txt
