@@ -1,5 +1,3 @@
-- [Course page](#course-page)
-- [10](#10)
 ## Course Page  
 https://missing.csail.mit.edu/2020/course-shell/
 

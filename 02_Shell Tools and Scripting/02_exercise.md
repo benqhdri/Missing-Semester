@@ -1,10 +1,3 @@
-- [Course page](#course-page)
-- [1](#1)
-- [2](#2)
-- [3](#3)
-- [4](#4)
-- [5](#5)
-
 ## Course page  
 https://missing.csail.mit.edu/2020/shell-tools/  
 
